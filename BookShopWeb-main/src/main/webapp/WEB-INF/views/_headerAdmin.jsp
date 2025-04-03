@@ -10,7 +10,7 @@
       <div class="row align-items-center">
         <div class="col py-3">
           <a class="text-white" href="${pageContext.request.contextPath}/admin">
-            <h3><span class="badge bg-success">Admin</span> Shop Bán Sách Hà và Khải</h3>
+            <h3><span class="badge bg-success">Admin </span>Shop Sách Nai Vàng</h3>
           </a>
         </div> <!-- col.// -->
         <div class="col-sm-1">

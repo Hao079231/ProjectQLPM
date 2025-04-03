@@ -9,7 +9,7 @@
         <!-- Logo -->
         <div class="col-lg-3 py-3">
           <a class="text-white" href="${pageContext.request.contextPath}/">
-            <h3> Shop Bán Sách Hà và Khải</h3>
+            <h3> Shop Sách Nai Vàng</h3>
           </a>
         </div> <!-- col.// -->
         
