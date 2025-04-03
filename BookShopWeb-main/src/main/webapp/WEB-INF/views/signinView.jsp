@@ -7,6 +7,22 @@
   <jsp:include page="_meta.jsp"/>
   <title>Đăng nhập</title>
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+      }
+      .section-content {
+        flex: 1 0 auto; /* Đảm bảo nội dung chính chiếm không gian còn lại */
+      }
+      .footer {
+        flex-shrink: 0; /* Footer không bị co lại */
+      }
+    </style>
 </head>
 
 <body>
