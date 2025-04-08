@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f68b6bad-211c-48d5-be10-c8824b7022fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BookShopWeb-main/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookShopWeb-main/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BookShopWeb-main/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookShopWeb-main/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookShopWeb-main/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BookShopWeb-main/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BookShopWeb-main/BookShopWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BookShopWeb-main/BookShopWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookShopWeb-main/src/main/java/com/bookshopweb/utils/ConstantUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookShopWeb-main/src/main/java/com/bookshopweb/utils/ConstantUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +14,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2vCv2tnch5P2aIn7JZNnIcvw8Un" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -27,9 +26,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "hao__dev",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Study/UTE/QLPM/Project/Nhom2"
+    "last_opened_file_path": "D:/QLPM/ProjectQLPM"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
